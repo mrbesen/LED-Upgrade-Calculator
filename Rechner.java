@@ -1,4 +1,4 @@
-package me.yannisgerlach.rechner;
+package me;
 
 public class Rechner {
 
