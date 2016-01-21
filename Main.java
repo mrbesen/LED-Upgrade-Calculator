@@ -1,4 +1,4 @@
-package me.yannisgerlach.rechner;
+package me;
 
 import java.awt.Color;
 import java.awt.event.ActionEvent;
